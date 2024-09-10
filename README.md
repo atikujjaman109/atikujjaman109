@@ -4,7 +4,7 @@
 <h3 align="center">An EXplorer</h3>
 
 ![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
-
+<code>
 - 🔭 marketing and patience.that makes my brand **Matience**
 
 - Currently reading **Books**
@@ -32,8 +32,8 @@
  <br/>
  </h2>
  <img style = "border-radius:100%" align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 276px; height = 251px; /></a>
-<code></code><h2> Are you skilled? Then I have dropout programmers for you.Make your own marketplace with us
-</h2></p>code>
+<code><h2> Are you skilled? Then I have dropout programmers for you.Make your own marketplace with us
+</h2></code>
  <a href="https://dropoutprogrammers.kleap.co" target="blank">
   
  ![image](https://github.com/user-attachments/assets/0294deac-c4f6-43df-924a-d94f4da7e43e)
