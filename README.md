@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atik</h1>
 <h3 align="center">An EXplorer</h3>
 
-![424602317_232342913268786_6880838615021283447_n png](https://github.com/user-attachments/assets/072818d4-4e4e-46b6-bb6a-4a280023a18c | width = 100)
+![424602317_232342913268786_6880838615021283447_n png](https://github.com/user-attachments/assets/072818d4-4e4e-46b6-bb6a-4a280023a18c|width=100)
 
 
 - 🔭 marketing and patience.that makes my brand **Matience**
