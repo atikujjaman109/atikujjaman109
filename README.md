@@ -52,4 +52,4 @@
 <h2> 
 Why will you hire individuals looking all day.I am here to do your everything.My creative agency MATIENCE and GRAFFIXO will help you through everything to launch your business.
 </h2>
-<img style = "border-radius: 50%" src= 'https://github.com/atikujjaman109/atikujjaman109/blob/main/7.png?raw=true">
+<img style = "border-radius: 50%" src= "https://github.com/atikujjaman109/atikujjaman109/blob/main/7.png?raw=true">
