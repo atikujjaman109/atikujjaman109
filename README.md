@@ -31,7 +31,7 @@
 <h2 > 🎙️ The most premium podcast episodes on Coding and AI.
  <br/>
  </h2>
- <img  style = "border-radius:100%" align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 276px; height = 251px;  /></a>
+ <img style = "border-radius:100%" align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 276px; height = 251px; /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
