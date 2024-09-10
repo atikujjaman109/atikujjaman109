@@ -4,7 +4,9 @@
 <h3 align="center">I am An EXplorer</h3>
 
 ![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
+
 <code>
+<img align = "right" src = "https://github.com/atikujjaman109/atikujjaman109/blob/main/IMG-20231015-WA0012.jpg?raw=true" width = "50%" height = "50%">
 - 🔭 marketing and patience.that makes my brand **Matience**
 - Currently reading **Books**
 - 👯 I’m looking to collaborate on **Open CV and Machine learning**
