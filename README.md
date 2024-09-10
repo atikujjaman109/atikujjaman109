@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/@rakibwaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@rakibwaves" height="30" width="40" /></a>
 <a href="https://fb.com/@rakibshowsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rakibshowsup" height="30" width="40" /></a>
-<a href="https://instagram.com/@rakib_appears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rakib_appears" height="30" width="40" /></a>
+<a href="https://instagram.com/@rakib_appears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakib_appears" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@coderhoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@coderhoba" height="30" width="40" /></a>
 <a href="https://discord.gg/atik7591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atik7591" height="30" width="40" /></a>
 </p>
