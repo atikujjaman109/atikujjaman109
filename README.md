@@ -29,7 +29,7 @@
 <a href="https://discord.gg/atik7591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atik7591" height="30" width="40" /></a>
 </p>
 <h2>The most premium podcast episodes on Coding and AI.click on the picture to be redirected </h2>
-<a href="https://www.youtube.com/c/@coderhoba" target="blank"><img align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 552px; height = 502px /></a>
+<a href="https://www.youtube.com/c/@coderhoba" target="blank"><img align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 552px; height = 502px; border_radius = 10 px  /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
