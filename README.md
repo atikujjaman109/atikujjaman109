@@ -32,9 +32,12 @@
  <br/>
  </h2>
  <img style = "border-radius:100%" align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 276px; height = 251px; /></a>
-<p style="font-family: Arial">This is dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text.</p>
- Those who 
+<h2> Are you skilled? Then I have dropout programmers for you.Make your own marketplace with us
 </h2>
+ 
+ ![image](https://github.com/user-attachments/assets/0294deac-c4f6-43df-924a-d94f4da7e43e)
+
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
