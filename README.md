@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atik</h1>
 <h3 align="center">An EXplorer</h3>
 
-
-<img align="right" width="420" height="345" src="https://github.com/user-attachments/assets/aca0749e-5b13-437e-ade2-cb29da0f49f9](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2F%40HH.&psig=AOvVaw3EFwP00hZ7leGIp3TEUYlD&ust=1726073022877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOix7bjpuIgDFQAAAAAdAAAAABAJ">
-</img>
+![424602317_232342913268786_6880838615021283447_n png](https://github.com/user-attachments/assets/072818d4-4e4e-46b6-bb6a-4a280023a18c)
 
 
 - 🔭 marketing and patience.that makes my brand **Matience**
