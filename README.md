@@ -6,22 +6,15 @@
 ![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
 <code>
 - 🔭 marketing and patience.that makes my brand **Matience**
-
 - Currently reading **Books**
-
 - 👯 I’m looking to collaborate on **Open CV and Machine learning**
-
 - 🌱 I’m currently merging [Human psychology with AI](https://www.facebook.com/watch/100094792350955/428424300013700)
-
 - Mee [https://rakibul.kleap.co](https://rakibul.kleap.co)
-
 - 💬 Ask me about **about anything**
-
 - 📫 How to reach me **rakibikar@gmail.com**
-
 - ⚡ Fun fact **I am ambivert**
-
 <h3 align="left">Connect with me:</h3>
+</code>
 <p align="left">
 
 <a href="https://fb.com/@rakibshowsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rakibshowsup" height="30" width="40" /></a>
