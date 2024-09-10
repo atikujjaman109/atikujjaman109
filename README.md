@@ -32,7 +32,7 @@
  <br/>
  </h2>
  <img style = "border-radius:100%" align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 276px; height = 251px; /></a>
-<p style="font-family:'Courier New'">This is another paragraph.</p>
+<p style="font-family: Arial">This is dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text. This is more dummy text.</p>
  Those who 
 </h2>
 
