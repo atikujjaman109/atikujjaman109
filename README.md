@@ -2,7 +2,8 @@
 <h3 align="center">An EXplorer</h3>
 
 ![424602317_232342913268786_6880838615021283447_n png](https://github.com/user-attachments/assets/072818d4-4e4e-46b6-bb6a-4a280023a18c)
-
+<img align="right" alt="coding" width="400" src="https://user-
+images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 marketing and patience.that makes my brand **Matience**
 
