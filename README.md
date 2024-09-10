@@ -1,4 +1,4 @@
-https://github.com/atikujjaman109/atikujjaman109/blob/main/2.png?raw=true![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
+![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
 
 <h1 align="center">Hi 👋, I'm Atik</h1>
 <h3 align="center">An EXplorer</h3>
