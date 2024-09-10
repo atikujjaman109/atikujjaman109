@@ -5,8 +5,8 @@
 
 ![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
 
-<code>
-<img align = "right" src = "https://github.com/atikujjaman109/atikujjaman109/blob/main/IMG-20231015-WA0012.jpg?raw=true" width = "50%" height = "50%"></code>
+
+<img align = "right" src = "https://github.com/atikujjaman109/atikujjaman109/blob/main/IMG-20231015-WA0012.jpg?raw=true" width = "50%" height = "50%">
 - 🔭 marketing and patience.that makes my brand **Matience**
 - Currently reading **Books**
 - 👯 I’m looking to collaborate on **Open CV and Machine learning**
@@ -16,7 +16,7 @@
 - 📫 How to reach me **rakibikar@gmail.com**
 - ⚡ Fun fact **I am ambivert**
 <h3 align="left">Connect with me:</h3>
-</code>
+
 
 <p align="left">
 <a href="https://fb.com/@rakibshowsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rakibshowsup" height="30" width="40" /></a>
