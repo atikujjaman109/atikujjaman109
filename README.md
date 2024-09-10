@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Atik</h1>
-<h3 align="center">An EXplorer</h3>
+<h1 align="center">Hi👋Rakib here </h1>
+<h3 align="center">I am An EXplorer</h3>
 
 ![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
 <code>
@@ -13,7 +13,9 @@
 - 💬 Ask me about **about anything**
 - 📫 How to reach me **rakibikar@gmail.com**
 - ⚡ Fun fact **I am ambivert**
-<h3 align="left">Connect with me:</h3></code>
+<h3 align="left">Connect with me:</h3>
+</code>
+
 <p align="left">
 <a href="https://fb.com/@rakibshowsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rakibshowsup" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@coderhoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@coderhoba" height="30" width="40" /></a>
