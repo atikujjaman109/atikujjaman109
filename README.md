@@ -2,7 +2,8 @@
 <h3 align="center">An EXplorer</h3>
 
 
-<img align="right" width="420" height="345" src="https://drive.google.com/file/d/1rOdCURR-x7k5GWyF_2IiVUCr-A3ACadA/view?usp=sharing">
+<img align="right" width="420" height="345" src="https://github.com/user-attachments/assets/aca0749e-5b13-437e-ade2-cb29da0f49f9
+">
 </img>
 
 
