@@ -46,8 +46,7 @@
 <code><h3> 
 Why will you hire individuals looking all day?
 I am here to do everything.
-My creative agency <bold>MATIENCE</bold> and <bold>GRAFFIXO</bold> will help you through everything to launch your business.
-</h3></code>
+My creative agency <bold>MATIENCE</bold> and <bold>GRAFFIXO</bold> will help you through everything to launch your business.</h3></code>
 <img style = "border-radius: 50%" src= "https://github.com/atikujjaman109/atikujjaman109/blob/main/7.png?raw=true">
 
 
@@ -56,9 +55,7 @@ My creative agency <bold>MATIENCE</bold> and <bold>GRAFFIXO</bold> will help you
 I am a storyteller also.
   Making my own series on psychology and dreams.
   creating Rakipsy.A playlist on underlying effects.
-  and here are two of my beginning.
- </h3>
-</code>
+  and here are two of my beginning. </h3></code>
 <img src = "https://github.com/atikujjaman109/atikujjaman109/blob/main/6.jpeg?raw=true">
 
 
