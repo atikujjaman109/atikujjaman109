@@ -13,17 +13,16 @@
 - 💬 Ask me about **about anything**
 - 📫 How to reach me **rakibikar@gmail.com**
 - ⚡ Fun fact **I am ambivert**
-<h3 align="left">Connect with me:</h3>
-</code>
+<h3 align="left">Connect with me:</h3></code>
 <p align="left">
-
 <a href="https://fb.com/@rakibshowsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@rakibshowsup" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@coderhoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@coderhoba" height="30" width="40" /></a>
 <a href="https://discord.gg/atik7591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atik7591" height="30" width="40" /></a>
 </p>
-<h2 > 🎙️ The most premium podcast episodes on Coding and AI.
+<code><h2 > 🎙️ The most premium podcast episodes on Coding and AI.
  <br/>
  </h2>
+ </code>
  <img style = "border-radius:100%" align="center" src="https://github.com/atikujjaman109/atikujjaman109/blob/main/EF90A1FD-9A37-49B2-8AA7-8050AD2F71D7_1_201_a.jpeg?raw=true" alt="@coderhoba" width = 276px; height = 251px; /></a>
 <code><h2> Are you skilled? Then I have dropout programmers for you.Make your own marketplace with us
 </h2></code>
@@ -48,3 +47,16 @@ I am here to do everything.
 My creative agency <bold>MATIENCE</bold> and <bold>GRAFFIXO</bold> will help you through everything to launch your business.
 </h3></code>
 <img style = "border-radius: 50%" src= "https://github.com/atikujjaman109/atikujjaman109/blob/main/7.png?raw=true">
+
+
+<code> 
+ <h3>
+I am a storyteller also.
+  Making my own series on psychology and dreams.
+  creating Rakipsy.A playlist on underlying effects.
+  and here are two of my beginning.
+ </h3>
+</code>
+<img src = "https://github.com/atikujjaman109/atikujjaman109/blob/main/6.jpeg?raw=true">
+
+
