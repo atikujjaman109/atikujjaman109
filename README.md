@@ -3,7 +3,8 @@
 <h1 align="center">Hi👋Rakib here </h1>
 <h3 align="center">I am An EXplorer</h3>
 
-![image](https://github.com/user-attachments/assets/95ebc437-3e47-4877-8aaf-91be007ecf98)
+![image](https://github.com/user-attachments/assets/785f8d04-98e9-447b-b028-6575526ede6b)
+
 
 - 🔭 marketing and patience.that makes my brand **Matience**
 
